@@ -1,4 +1,5 @@
 # Projet-unity-AR-and-VR-
+## Scope
 In the face of the Covid pandemic, e-commerce has become popular as a means to obtain dailynecessities while staying safe. The imaginary furniture company IQEA has decided to jump on the bandwagon. With the progress of augmented and virtual reality technologies, they would like to raise the attractiveness of their products by offering a virtual hands-on experience, and entice consumers to open up their wallets.
 The goal of this project is to design an Augmented Reality (AR) and Virtual Reality (VR) applications in the topic of e-commerce application for IQEA.
 The user will have the opportunity to choose the furnitures desired for his home through a catalogue in different categories such as for size ( Small / Medium / Large ) 
